@@ -1,0 +1,174 @@
+C:\Домашняя\Программирование\Мои программы\Auto\Auto\bin\Debug\Auto.exe.config
+C:\Домашняя\Программирование\Мои программы\Auto\Auto\bin\Debug\Auto.exe
+C:\Домашняя\Программирование\Мои программы\Auto\Auto\bin\Debug\Auto.pdb
+C:\Домашняя\Программирование\Мои программы\Auto\Auto\obj\Debug\Auto.csprojAssemblyReference.cache
+C:\Домашняя\Программирование\Мои программы\Auto\Auto\obj\Debug\Auto.Authorization.resources
+C:\Домашняя\Программирование\Мои программы\Auto\Auto\obj\Debug\Auto.Form1.resources
+C:\Домашняя\Программирование\Мои программы\Auto\Auto\obj\Debug\Auto.Properties.Resources.resources
+C:\Домашняя\Программирование\Мои программы\Auto\Auto\obj\Debug\Auto.csproj.GenerateResource.cache
+C:\Домашняя\Программирование\Мои программы\Auto\Auto\obj\Debug\Auto.csproj.CoreCompileInputs.cache
+C:\Домашняя\Программирование\Мои программы\Auto\Auto\obj\Debug\Auto.exe
+C:\Домашняя\Программирование\Мои программы\Auto\Auto\obj\Debug\Auto.pdb
+C:\Домашняя\Программирование\Мои программы\Auto\Auto\bin\Debug\MySql.Data.xml
+C:\Домашняя\Программирование\Мои программы\Auto\Auto\obj\Debug\Auto.Employee.resources
+C:\Домашняя\Программирование\Мои программы\Auto\Auto\obj\Debug\Auto.csproj.CopyComplete
+C:\Домашняя\Программирование\Мои программы\Auto\Auto\obj\Debug\Auto.Autos.resources
+C:\Домашняя\Программирование\Мои программы\Auto\Auto\obj\Debug\Auto.Aut.resources
+D:\Программы\Auto\Auto\bin\Debug\Auto.exe.config
+D:\Программы\Auto\Auto\bin\Debug\Auto.exe
+D:\Программы\Auto\Auto\bin\Debug\Auto.pdb
+D:\Программы\Auto\Auto\bin\Debug\MySql.Data.xml
+D:\Программы\Auto\Auto\obj\Debug\Auto.csprojAssemblyReference.cache
+D:\Программы\Auto\Auto\obj\Debug\Auto.Aut.resources
+D:\Программы\Auto\Auto\obj\Debug\Auto.Authorization.resources
+D:\Программы\Auto\Auto\obj\Debug\Auto.Autos.resources
+D:\Программы\Auto\Auto\obj\Debug\Auto.Employee.resources
+D:\Программы\Auto\Auto\obj\Debug\Auto.Form1.resources
+D:\Программы\Auto\Auto\obj\Debug\Auto.Properties.Resources.resources
+D:\Программы\Auto\Auto\obj\Debug\Auto.csproj.GenerateResource.cache
+D:\Программы\Auto\Auto\obj\Debug\Auto.csproj.CoreCompileInputs.cache
+D:\Программы\Auto\Auto\obj\Debug\Auto.csproj.CopyComplete
+D:\Программы\Auto\Auto\obj\Debug\Auto.exe
+D:\Программы\Auto\Auto\obj\Debug\Auto.pdb
+D:\Программирование\Программирование\Мои программы\Auto\Auto\bin\Debug\Auto.exe.config
+D:\Программирование\Программирование\Мои программы\Auto\Auto\obj\Debug\Auto.exe
+D:\Программирование\Программирование\Мои программы\Auto\Auto\obj\Debug\Auto.pdb
+D:\Программирование\Программирование\Мои программы\Auto\Auto\bin\Debug\Auto.exe
+D:\Программирование\Программирование\Мои программы\Auto\Auto\bin\Debug\Auto.pdb
+D:\Программирование\Программирование\Мои программы\Auto\Auto\bin\Debug\MySql.Data.xml
+D:\Программирование\Программирование\Мои программы\Auto\Auto\obj\Debug\Auto.csprojResolveAssemblyReference.cache
+D:\Программирование\Программирование\Мои программы\Auto\Auto\obj\Debug\Auto.Aut.resources
+D:\Программирование\Программирование\Мои программы\Auto\Auto\obj\Debug\Auto.Authorization.resources
+D:\Программирование\Программирование\Мои программы\Auto\Auto\obj\Debug\Auto.Autos.resources
+D:\Программирование\Программирование\Мои программы\Auto\Auto\obj\Debug\Auto.Employee.resources
+D:\Программирование\Программирование\Мои программы\Auto\Auto\obj\Debug\Auto.Form1.resources
+D:\Программирование\Программирование\Мои программы\Auto\Auto\obj\Debug\Auto.Properties.Resources.resources
+D:\Программирование\Программирование\Мои программы\Auto\Auto\obj\Debug\Auto.csproj.GenerateResource.Cache
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская\Auto\bin\Debug\Auto.exe.config
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская\Auto\bin\Debug\Auto.exe
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская\Auto\bin\Debug\Auto.pdb
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская\Auto\bin\Debug\MySql.Data.xml
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская\Auto\obj\Debug\Auto.csprojAssemblyReference.cache
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская\Auto\obj\Debug\Auto.Authorization.resources
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская\Auto\obj\Debug\Auto.Autos.resources
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская\Auto\obj\Debug\Auto.Employee.resources
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская\Auto\obj\Debug\Auto.Form1.resources
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская\Auto\obj\Debug\Auto.Properties.Resources.resources
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская\Auto\obj\Debug\Auto.csproj.GenerateResource.cache
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская\Auto\obj\Debug\Auto.csproj.CoreCompileInputs.cache
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская\Auto\obj\Debug\Auto.csproj.CopyComplete
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская\Auto\obj\Debug\Auto.exe
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская\Auto\obj\Debug\Auto.pdb
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская\Auto\obj\Debug\Auto.Clients.resources
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская\Auto\obj\Debug\Auto.Card.resources
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская\Auto\obj\Debug\Auto.Suppliers.resources
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская\Auto\obj\Debug\Auto.Zapt.resources
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская\Auto\obj\Debug\Auto.Oborud.resources
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская\Auto\obj\Debug\Auto.Rabota.resources
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\bin\Debug\Auto.exe.config
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\bin\Debug\Auto.exe
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\bin\Debug\Auto.pdb
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\bin\Debug\MySql.Data.xml
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.csprojAssemblyReference.cache
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Authorization.resources
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Autos.resources
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Card.resources
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Clients.resources
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Employee.resources
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Form1.resources
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Oborud.resources
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Properties.Resources.resources
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Rabota.resources
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Suppliers.resources
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Zapt.resources
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.csproj.GenerateResource.cache
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.csproj.CoreCompileInputs.cache
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.csproj.CopyComplete
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.exe
+C:\Домашняя\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.pdb
+C:\Рабочая\Программирование\Auto_автомастерская MySQL\Auto\bin\Debug\Auto.exe.config
+C:\Рабочая\Программирование\Auto_автомастерская MySQL\Auto\bin\Debug\Auto.exe
+C:\Рабочая\Программирование\Auto_автомастерская MySQL\Auto\bin\Debug\Auto.pdb
+C:\Рабочая\Программирование\Auto_автомастерская MySQL\Auto\bin\Debug\MySql.Data.xml
+C:\Рабочая\Программирование\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.csprojAssemblyReference.cache
+C:\Рабочая\Программирование\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Authorization.resources
+C:\Рабочая\Программирование\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Autos.resources
+C:\Рабочая\Программирование\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Card.resources
+C:\Рабочая\Программирование\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Clients.resources
+C:\Рабочая\Программирование\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Employee.resources
+C:\Рабочая\Программирование\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Form1.resources
+C:\Рабочая\Программирование\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Oborud.resources
+C:\Рабочая\Программирование\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Properties.Resources.resources
+C:\Рабочая\Программирование\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Rabota.resources
+C:\Рабочая\Программирование\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Suppliers.resources
+C:\Рабочая\Программирование\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Zapt.resources
+C:\Рабочая\Программирование\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.csproj.GenerateResource.cache
+C:\Рабочая\Программирование\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.csproj.CoreCompileInputs.cache
+C:\Рабочая\Программирование\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.csproj.CopyComplete
+C:\Рабочая\Программирование\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.exe
+C:\Рабочая\Программирование\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.pdb
+C:\Рабочий\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\bin\Debug\Auto.exe.config
+C:\Рабочий\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\bin\Debug\Auto.exe
+C:\Рабочий\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\bin\Debug\Auto.pdb
+C:\Рабочий\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\bin\Debug\MySql.Data.xml
+C:\Рабочий\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.csprojAssemblyReference.cache
+C:\Рабочий\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Authorization.resources
+C:\Рабочий\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Autos.resources
+C:\Рабочий\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Card.resources
+C:\Рабочий\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Clients.resources
+C:\Рабочий\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Employee.resources
+C:\Рабочий\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Form1.resources
+C:\Рабочий\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Oborud.resources
+C:\Рабочий\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Properties.Resources.resources
+C:\Рабочий\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Rabota.resources
+C:\Рабочий\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Suppliers.resources
+C:\Рабочий\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Zapt.resources
+C:\Рабочий\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.csproj.GenerateResource.cache
+C:\Рабочий\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.csproj.CoreCompileInputs.cache
+C:\Рабочий\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.csproj.CopyComplete
+C:\Рабочий\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.exe
+C:\Рабочий\Программирование\Мои программы\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.pdb
+C:\Users\Санек\Desktop\практики\вкр\Auto_автомастерская MySQL\Auto\bin\Debug\Auto.exe.config
+C:\Users\Санек\Desktop\практики\вкр\Auto_автомастерская MySQL\Auto\bin\Debug\Auto.exe
+C:\Users\Санек\Desktop\практики\вкр\Auto_автомастерская MySQL\Auto\bin\Debug\Auto.pdb
+C:\Users\Санек\Desktop\практики\вкр\Auto_автомастерская MySQL\Auto\bin\Debug\MySql.Data.xml
+C:\Users\Санек\Desktop\практики\вкр\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.csproj.AssemblyReference.cache
+C:\Users\Санек\Desktop\практики\вкр\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Санек\Desktop\практики\вкр\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Authorization.resources
+C:\Users\Санек\Desktop\практики\вкр\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Autos.resources
+C:\Users\Санек\Desktop\практики\вкр\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Card.resources
+C:\Users\Санек\Desktop\практики\вкр\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Clients.resources
+C:\Users\Санек\Desktop\практики\вкр\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Employee.resources
+C:\Users\Санек\Desktop\практики\вкр\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Form1.resources
+C:\Users\Санек\Desktop\практики\вкр\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Oborud.resources
+C:\Users\Санек\Desktop\практики\вкр\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Properties.Resources.resources
+C:\Users\Санек\Desktop\практики\вкр\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Rabota.resources
+C:\Users\Санек\Desktop\практики\вкр\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Suppliers.resources
+C:\Users\Санек\Desktop\практики\вкр\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.Zapt.resources
+C:\Users\Санек\Desktop\практики\вкр\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.csproj.GenerateResource.cache
+C:\Users\Санек\Desktop\практики\вкр\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.csproj.CoreCompileInputs.cache
+C:\Users\Санек\Desktop\практики\вкр\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.csproj.CopyComplete
+C:\Users\Санек\Desktop\практики\вкр\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.exe
+C:\Users\Санек\Desktop\практики\вкр\Auto_автомастерская MySQL\Auto\obj\Debug\Auto.pdb
+C:\Users\Санек\Desktop\практики\вкр\ПО ВКР\Auto\bin\Debug\Auto.exe.config
+C:\Users\Санек\Desktop\практики\вкр\ПО ВКР\Auto\bin\Debug\Auto.exe
+C:\Users\Санек\Desktop\практики\вкр\ПО ВКР\Auto\bin\Debug\Auto.pdb
+C:\Users\Санек\Desktop\практики\вкр\ПО ВКР\Auto\bin\Debug\MySql.Data.xml
+C:\Users\Санек\Desktop\практики\вкр\ПО ВКР\Auto\obj\Debug\Auto.csproj.AssemblyReference.cache
+C:\Users\Санек\Desktop\практики\вкр\ПО ВКР\Auto\obj\Debug\Auto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Санек\Desktop\практики\вкр\ПО ВКР\Auto\obj\Debug\Auto.Authorization.resources
+C:\Users\Санек\Desktop\практики\вкр\ПО ВКР\Auto\obj\Debug\Auto.Autos.resources
+C:\Users\Санек\Desktop\практики\вкр\ПО ВКР\Auto\obj\Debug\Auto.Card.resources
+C:\Users\Санек\Desktop\практики\вкр\ПО ВКР\Auto\obj\Debug\Auto.Clients.resources
+C:\Users\Санек\Desktop\практики\вкр\ПО ВКР\Auto\obj\Debug\Auto.Employee.resources
+C:\Users\Санек\Desktop\практики\вкр\ПО ВКР\Auto\obj\Debug\Auto.Form1.resources
+C:\Users\Санек\Desktop\практики\вкр\ПО ВКР\Auto\obj\Debug\Auto.Oborud.resources
+C:\Users\Санек\Desktop\практики\вкр\ПО ВКР\Auto\obj\Debug\Auto.Properties.Resources.resources
+C:\Users\Санек\Desktop\практики\вкр\ПО ВКР\Auto\obj\Debug\Auto.Rabota.resources
+C:\Users\Санек\Desktop\практики\вкр\ПО ВКР\Auto\obj\Debug\Auto.Suppliers.resources
+C:\Users\Санек\Desktop\практики\вкр\ПО ВКР\Auto\obj\Debug\Auto.Zapt.resources
+C:\Users\Санек\Desktop\практики\вкр\ПО ВКР\Auto\obj\Debug\Auto.csproj.GenerateResource.cache
+C:\Users\Санек\Desktop\практики\вкр\ПО ВКР\Auto\obj\Debug\Auto.csproj.CoreCompileInputs.cache
+C:\Users\Санек\Desktop\практики\вкр\ПО ВКР\Auto\obj\Debug\Auto.csproj.CopyComplete
+C:\Users\Санек\Desktop\практики\вкр\ПО ВКР\Auto\obj\Debug\Auto.exe
+C:\Users\Санек\Desktop\практики\вкр\ПО ВКР\Auto\obj\Debug\Auto.pdb
